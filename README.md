@@ -1,70 +1,56 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Personal Portfolio Website
 
-## Available Scripts
+This is a personal portfolio website created using React. The purpose of this website is to showcase my skills, projects to potential employers.
 
-In the project directory, you can run:
 
-### `npm start`
+## Getting Started
+To get started with this project, you will need to have Node.js installed on your local machine. Once you have Node.js installed, you can follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository to your local machine using `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git`.
+2. Navigate to the project directory using `cd YOUR-REPOSITORY`.
+3. Install the project dependencies using `npm install`.
+4. Run the project locally using `npm start`.
+5. Open http://localhost:3000 to view it in the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+This personal portfolio website includes the following features:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Home page with a brief introduction and links to my resume and social media profiles.
+- Projects page with details about my past and current projects, including descriptions, technologies used, and links to the project repositories or live websites.
+- Skills page with a list of my technical skills and proficiency levels.
+- Contact page with a contact form to allow potential employers or clients to send me a message.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech Stack
 
-### `npm run eject`
+This project was created using the following technologies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React
+- HTML
+- CSS
+- Javascript
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is open for contributions. If you find a bug or would like to suggest an improvement, feel free to create a pull request.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgements
 
-### Analyzing the Bundle Size
+- The [React](https://react.dev/) documentation
+- The [create-react-app](https://create-react-app.dev/) project for bootstrapping the initial setup
+- The [Boxicons](https://boxicons.com/) and [Unicons](https://iconscout.com/unicons) for Icons
+- The [Netlify](https://www.netlify.com/) service for hosting the live website
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
