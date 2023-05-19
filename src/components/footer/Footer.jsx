@@ -43,6 +43,13 @@ function Footer() {
           >
             <i class="bx bxl-github"></i>
           </a>
+
+          <a
+            href="https://twitter.com/Aditya_Xode"
+            className="footer__social-link"
+          >
+            <i class="bx bxl-twitter"></i>
+          </a>
         </div>
 
         <span className="footer__copy">

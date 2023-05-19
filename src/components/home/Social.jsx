@@ -4,6 +4,14 @@ function Social() {
   return (
     <div className="home__social">
       <a
+        href="https://twitter.com/Aditya_Xode"
+        className="home__social-icon"
+        target="_blank"
+      >
+        <i class="uil uil-twitter-alt"></i>
+      </a>
+
+      <a
         href="https://www.linkedin.com/in/aditya-verma-976618249/"
         className="home__social-icon"
         target="_blank"
