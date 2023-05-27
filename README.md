@@ -3,6 +3,8 @@
 
 This is a personal portfolio website created using React. The purpose of this website is to showcase my skills, projects to potential employers.
 
+## Live On
+https://aditya-cv.netlify.app/
 
 ## Getting Started
 To get started with this project, you will need to have Node.js installed on your local machine. Once you have Node.js installed, you can follow these steps:
