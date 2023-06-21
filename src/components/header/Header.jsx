@@ -67,10 +67,10 @@ function Header() {
 
             <li className="nav__item">
               <a
-                href="#portfolio"
-                onClick={() => setActiveNav("#portfolio")}
+                href="#projects"
+                onClick={() => setActiveNav("#projects")}
                 className={
-                  activeNav === "#portfolio"
+                  activeNav === "#projects"
                     ? "nav__link active-link"
                     : "nav__link"
                 }
