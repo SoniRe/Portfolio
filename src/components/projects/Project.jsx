@@ -14,7 +14,7 @@ const Project = () => {
           <img src={projectimage3} alt="project-img" className="project__img" />
           <div className="about__data project__data">
             <h1 className="project__title">Youtube Clone</h1>
-            <p className="about__description">
+            <p className="about__project">
               YourTube, the ultimate video streaming app that brings
               entertainment, education, and inspiration right to your
               fingertips. With YourTube, you can explore a vast library of
@@ -41,7 +41,7 @@ const Project = () => {
           <img src={projectimage1} alt="project-img" className="project__img" />
           <div className="about__data project__data">
             <h1 className="project__title">Hikers</h1>
-            <p className="about__description">
+            <p className="about__project">
               Hikers is a web application for booking tours and hikes. It
               provides users with an intuitive and seamless experience for
               discovering, booking, and managing various outdoor activities.
@@ -67,7 +67,7 @@ const Project = () => {
           <img src={projectimage2} alt="project-img" className="project__img" />
           <div className="about__data project__data">
             <h1 className="project__title">Tindog</h1>
-            <p className="about__description">
+            <p className="about__project">
               Tindog, the ultimate social networking app for pets, is here to
               revolutionize the way your furry friend connects with others.
               Whether you have a playful pup, a curious cat, or an adventurous
