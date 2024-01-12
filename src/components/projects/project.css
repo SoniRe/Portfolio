@@ -12,6 +12,13 @@
   width: 50rem;
   border-radius: 20px;
   margin-right: 5rem;
+  object-fit: cover;
+}
+
+.project__img2 {
+  width: 50rem;
+  border-radius: 20px;
+  object-fit: cover;
 }
 
 .project-ex {
